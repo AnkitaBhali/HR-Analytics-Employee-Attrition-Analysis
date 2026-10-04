@@ -37,7 +37,7 @@ Employee attrition is costly: hiring, training and lost productivity add up quic
 ## Dashboard Preview
 
 ### Workforce Overview
-![Workforce Overview](DashboardImages/Workforce_Overview.png)
+![Workforce Overview](DashboardImages/Workforce%20_Overview.png)
 
 ### Attrition Analysis
 ![Attrition Analysis](DashboardImages/Attrition_Analysis.png)
