@@ -1,4 +1,4 @@
-# HR Analytics: Employee Attrition Analysis
+# Workforce Retention and EMPLOYEE Analytics
 
 ## Project Overview
 This project analyzes employee attrition using **Excel, SQL and Power BI**. It identifies why employees leave and which groups are most at risk, so HR teams can make better retention decisions.
